@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Hacker from India</h3>
 
 
-#😎 About Me:
+# 😎 About Me
+
 - 🔭 I’m currently working on **Bug hunting**
 
 - 🌱 I’m currently learning **Web Engineering (Full-stack) , Socket programming , Learn the art of hacking through programming , Api development and bug Hunting**
