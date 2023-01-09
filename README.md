@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinoth</h1>
-<h3 align="center">A passionate Hacker from India</h3>
+<img src="./img/banner.png" >
 
 
 # 😎 About Me
